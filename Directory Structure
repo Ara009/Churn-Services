@@ -1,0 +1,20 @@
+```
+churn-services-model/
+├── README.md
+├── progress.md                 # Live progress file
+├── data/
+│   ├── raw/                   # Original datasets
+│   └── processed/             # Cleaned data
+├── notebooks/
+│   └── churn_model.ipynb      # Your Colab notebook (downloaded)
+├── src/
+│   ├── data_preprocessing.py
+│   ├── feature_engineering.py
+│   ├── model_training.py
+│   └── evaluation.py
+├── models/
+│   └── churn_model.pkl        # Trained model
+├── results/
+│   └── metrics.json           # Model metrics
+└── .gitignore
+```
