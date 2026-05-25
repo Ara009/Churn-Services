@@ -3,34 +3,34 @@ progress_content = """# Churn Services Model - Development Progress
 
 ## Project Overview
 - **Objective**: Build a predictive model for customer churn
-- **Status**: 🟡 In Progress
-- **Last Updated**: 2024-01-15
+- **Status**: 
+- **Last Updated**:
 
-## Completed Tasks ✅
-- [x] Data collection & loading
-- [x] Exploratory Data Analysis (EDA)
+## Completed Tasks 
+- Data collection & loading - 
+- Exploratory Data Analysis (EDA) - 
 
-## In Progress 🟠
-- [ ] Feature engineering
-- [ ] Model training & selection
+## In Progress 
+- Feature engineering
+- Model training & selection
 
-## Pending Tasks 📋
-- [ ] Hyperparameter tuning
-- [ ] Model evaluation & validation
-- [ ] Deployment preparation
-- [ ] Documentation
+## Pending Tasks
+- Hyperparameter tuning
+- Model evaluation & validation
+- Deployment preparation
+- Documentation
 
 ## Key Metrics
 | Metric | Value | Status |
 |--------|-------|--------|
-| Dataset Size | 10,000 samples | ✅ |
-| Missing Values | 0.5% | ✅ |
-| Model Accuracy | TBD | ⏳ |
-| Precision | TBD | ⏳ |
-| Recall | TBD | ⏳ |
+| Dataset Size | 10,000 samples | 
+| Missing Values | 0.5% |  
+| Model Accuracy | TBD |  
+| Precision | TBD | 
+| Recall | TBD |
 
 ## Latest Experiment
-**Date**: 2024-01-15
+**Date**: 
 **Model**: Logistic Regression (Baseline)
 **Score**: TBD
 **Notes**: Initial baseline for comparison
