@@ -5,3 +5,17 @@ Many industries and small businesses face the challenge of losing customers over
 To address this problem, I will be building a machine learning model to predict customer churn. The project will involve analyzing customer behavior data, training multiple machine learning models, and evaluating their performance using various metrics and parameters. I will also compare different models to identify the most effective approach for churn prediction.
 
 The outcome of this project can help organizations proactively identify customers who are at risk of leaving, enabling businesses to take preventive actions and improve customer retention strategies. As a result, many organizations can leverage this model to make data-driven decisions, enhance customer satisfaction, and improve long-term business growth.
+
+
+Firstly,
+
+I will build be importing the dependencies for python framework
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import mean_squared_error, r2_score
